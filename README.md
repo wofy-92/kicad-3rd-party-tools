@@ -69,6 +69,8 @@ which you can insert the edited values from the spreadsheet back into the schema
 
 - [typeCAD](https://www.typecad.net): Programmatically create hardware designs with TypeScript. Create/reuse/import version-controlled packages between projects.
 
+- [KiCad Happy](https://github.com/aklofas/kicad-happy) - AI-powered design review suite that analyzes schematics and PCB layouts for bugs, traces nets, checks EMC pre-compliance, manages BOMs with DigiKey/Mouser/LCSC integration, and prepares manufacturing outputs for JLCPCB/PCBWay. Works as a Claude Code / Codex plugin or as standalone Python scripts.
+
 ### Symbol Library Tools
 
 - [Kicad-tools/libgen](https://github.com/boseji/Kicad-tools/tree/master/libgen) - A Python script to generate schematic symbols from XML input.
