@@ -43,7 +43,7 @@ include the terms "KiCad" and "utility" or "plugin" in their Github repository d
 
 ### Schematic Entry Tools
 
-- [Skidl](http://xesscorp.github.io/skidl) - A  module that allows you
+- [Skidl](http://devbisme.github.io/skidl) - A  module that allows you
 to compactly describe the interconnection of electronic circuits and components
 using Python. The resulting Python program performs electrical rules checking
 for common mistakes and outputs a netlist that serves as input to
@@ -162,7 +162,7 @@ Simple and customiseable BOM generation script with ability to download parts da
 
 - [svg2mod](https://github.com/svg2mod/svg2mod) - A tool to convert multi-layer Inkscape SVGs into footprints.
 
-- [xess_fp_wizard.py](https://github.com/xesscorp/xess_fp_wizard) - A utility
+- [xess_fp_wizard.py](https://github.com/devbisme/xess_fp_wizard) - A utility
 to make footprints for chips having pins around the periphery (SOICs, QFP, etc.)
 and ball grid arrays (BGAs).
 
